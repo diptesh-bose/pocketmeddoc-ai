@@ -84,12 +84,12 @@ Follow these steps to use PocketMedDoc AI effectively:
 ### 1. Landing Page
 When you open the application, you will see the landing page. This is where you can start entering your clinical notes.
 
-![Landing Page](001_LandingPage.png)
+![Landing Page](product_screenshot/001_LandingPage.png)
 
 ### 2. Enter Clinical Notes
 Type or paste your clinical notes into the text area labeled "Clinical Notes." You can write in various languages, and the AI will attempt to understand it.
 
-![Clinical Notes Input](002_ClinicalNoteSummary.png)
+![Clinical Notes Input](product_screenshot/002_ClinicalNoteSummary.png)
 
 ### 3. Choose an Action
 Below the notes input area, you will find "Processing Actions." Select one of the following actions:
@@ -97,12 +97,12 @@ Below the notes input area, you will find "Processing Actions." Select one of th
 - **Structure (SOAP):** Organize your notes into the SOAP format (Subjective, Objective, Assessment, Plan).
 - **Translate:** Translate your notes into a selected language.
 
-![Processing Actions](003_SOAPNoteStructure.png)
+![Processing Actions](product_screenshot/003_SOAPNoteStructure.png)
 
 ### 4. View Processed Output
 After selecting an action, the AI will process your notes. The processed text will appear in the "Processed Output" section. If the AI used external web pages for its response, these will be listed under "Information Sources."
 
-![Processed Output](004_ClinicalNoteTransalation.png)
+![Processed Output](product_screenshot/004_ClinicalNoteTranslation.png)
 
 ### 5. Copy Output
 Click the "Copy" button next to the "Processed Output" title to copy the text to your clipboard. You can then paste it into another application, such as your Electronic Health Record system.
