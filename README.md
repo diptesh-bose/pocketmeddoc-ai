@@ -102,7 +102,7 @@ Below the notes input area, you will find "Processing Actions." Select one of th
 ### 4. View Processed Output
 After selecting an action, the AI will process your notes. The processed text will appear in the "Processed Output" section. If the AI used external web pages for its response, these will be listed under "Information Sources."
 
-![Processed Output](product_screenshots/004_ClinicalNoteTranslation.png)
+![Processed Output](product_screenshots/004_ClinicalNoteTransalation.png)
 
 ### 5. Copy Output
 Click the "Copy" button next to the "Processed Output" title to copy the text to your clipboard. You can then paste it into another application, such as your Electronic Health Record system.
